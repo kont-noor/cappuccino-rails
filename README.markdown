@@ -1,6 +1,6 @@
 # Capuccino-Rails
 
-Provides integrating [Cappuccino Framework](http://http://www.cappuccino-project.org/) into Rails
+Provides integrating [Cappuccino Framework](http://www.cappuccino-project.org/) into Rails
 
 ## Usage
 
