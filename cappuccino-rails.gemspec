@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://github.com/kont-noor/cappuccino-rails'
   s.summary     = 'Integrates Cappuccino framework into Rails'
   s.description = s.summary
-  s.files = Dir['{lib}/**/*', 'README.markdown']
+  s.files = Dir['{app,lib,vendor}/**/*', 'README.markdown']
 end
 
